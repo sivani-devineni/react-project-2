@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "id": "1af17361-4296-4b13-926c-3dd623af33c1",
+      "name": " dinesh7956",
+      "email": " dinesh7.n20@gmail.com"
+    },
+    {
+      "id": "63d2f50d-580d-43e4-b9d2-0a9348e3b172",
+      "name": " apple3",
+      "email": " apple@gmail.com"
+    },
+    {
+      "id": "a45be560-ac72-4db3-b1d9-36b93220f000",
+      "name": " dev",
+      "email": " dev@gmail.com"
+    },
+    {
+      "id": "ef03e220-ae76-4367-993d-7205c8d0aa1f",
+      "name": " edv",
+      "email": " evng@gmail.com",
+      "phnNo": "7780737943"
+    },
+    {
+      "id": "bd044eed-d609-4672-959f-4c1b1d33c01a",
+      "name": "sri devineni",
+      "email": "srisivanidevineni1@gmail.com",
+      "phnNo": "07780737943"
+    },
+    {
+      "id": "f65cf69f-a4e1-44e8-8cd5-457eb0466a86",
+      "name": "sri devineni",
+      "email": "srisivanidevi%^&@gmail.com",
+      "phnNo": "07780737943"
+    },
+    {
+      "id": "b84e7c0f-9bbb-43a0-bad1-849600c41008",
+      "name": "sri devineni",
+      "email": "srisivanide@#$ni1@gmail.com",
+      "phnNo": "07780737943"
+    }
+  ]
+}
